@@ -1,0 +1,7 @@
+li.disabled {
+  text-decoration: line-through;
+}
+
+.btn.disabled {
+  pointer-events: none;
+}
